@@ -1,0 +1,16 @@
+.odd{
+    background-color: pink;
+    font-family: verdana, 'dejavu sans', sans-serif;
+}
+#numbertwo {
+    color: blue;
+    font-size: 36px;
+}
+#numberfour {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight:bold;
+}
+.odd#numberthree {
+    font-size:24px;
+}
